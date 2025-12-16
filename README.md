@@ -59,8 +59,8 @@ The project covers the **full data analysis lifecycle**, starting from raw data 
 
 ## 📁 Project Files
 
-* `Data mining dashboard final one.pbix` – Power BI dashboard file
-* `Data Mining Report.pdf` – Project report with analysis and insights
+* `Dashboard final.pbix` – Power BI dashboard file
+* `Dashboard Report.pdf` – Project report with analysis and insights
 ---
 
 ## 🚀 How to Use
