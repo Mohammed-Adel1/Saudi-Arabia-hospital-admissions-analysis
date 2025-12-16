@@ -90,10 +90,3 @@ This dashboard can be used by:
 * Apply machine learning models for readmission risk
 
 ---
-
-## 👤 Author
-
-**Mohammed Adel**
-Data Analyst | Power BI Developer
-
----
